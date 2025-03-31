@@ -44,7 +44,6 @@ export default function LandingPage() {
                 <div className="hidden md:flex gap-6 text-gray-300 text-xl">
                     <a href="#features" className="hover:text-green-400">Features</a>
                     <a href="#careers" className="hover:text-green-400">Careers</a>
-                    <a href="#courses" className="hover:text-green-400">Courses</a>
                     <a href="#about" className="hover:text-green-400">About</a>
                 </div>
                 <div className="md:hidden" onClick={() => setMenuOpen(!menuOpen)}>
