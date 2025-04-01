@@ -19,7 +19,7 @@ export default function LoginPage() {
     >
      <div className="w-full max-w-md rounded-2xl p-6 m-5" style={{ backgroundColor: "rgba(255, 255, 255, 0.85)" }}>
         <h2 className="text-center text-2xl font-bold text-blue-900">
-          Education Portal Login
+          SkillBridge Login
         </h2>
         <form onSubmit={handleSubmit} className="space-y-4 mt-4">
           <div>

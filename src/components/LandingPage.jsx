@@ -84,7 +84,7 @@ export default function LandingPage() {
 
             {/* Features Section */}
             <div id="features" className="bg-gray-900 text-white py-20 px-6 text-center border-t border-gray-700">
-                <h2 className="text-4xl font-bold mb-10">Why Choose ImmersiLearn?</h2>
+                <h2 className="text-4xl font-bold mb-10">Why Choose SkillBridge?</h2>
                 <div className="grid md:grid-cols-3 gap-12 max-w-6xl mx-auto">
                     <FeatureCard icon={Layers} title="AI-Powered Learning" description="Personalized skill recommendations tailored to you." />
                     <FeatureCard icon={Eye} title="AR/VR Immersive Learning" description="Real-world simulations & virtual industry tours." />
@@ -132,9 +132,9 @@ export default function LandingPage() {
 
             {/* About Section */}
             <div id="about" className="bg-gray-900 text-white py-16 px-6 text-center">
-                <h2 className="text-4xl font-bold mb-4">About ImmersiLearn</h2>
+                <h2 className="text-4xl font-bold mb-4">About SkillBridge</h2>
                 <p className="text-gray-300 max-w-2xl mx-auto">
-                    ImmersiLearn is revolutionizing education by combining AI, AR/VR, and real-world challenges to make learning interactive, effective, and career-focused.
+                    SkillBridge is revolutionizing education by combining AI, AR/VR, and real-world challenges to make learning interactive, effective, and career-focused.
                 </p>
             </div>
 
@@ -156,7 +156,7 @@ export default function LandingPage() {
 
             {/* Footer */}
             <footer className="bg-black text-gray-300 py-10 text-center border-t border-gray-700">
-                <p>&copy; {new Date().getFullYear()} ImmersiLearn. All rights reserved.</p>
+                <p>&copy; {new Date().getFullYear()} SkillBridge. All rights reserved.</p>
             </footer>
         </div>
 
